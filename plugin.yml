@@ -1,0 +1,10 @@
+name: Hide-and-Tag
+version: 1.0
+author: Lolimi
+
+main: lolimi.HnT.main.Main
+api-version: 1.14
+
+commands:
+   hnt:
+      aliases: [hidentag,hideandtag]
